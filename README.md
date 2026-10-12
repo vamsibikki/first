@@ -4,6 +4,6 @@ my first repository for learning purpose
 this is my personal information
 =======
 
-
+added one more line
 
 >>>>>>> ac70824 (i added index.html)
